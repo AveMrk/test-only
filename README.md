@@ -14,7 +14,10 @@
 * Не использовать библиотеки с готовыми UI-компонентами такие, как MaterialUI, AntDesign и т.п.
 
 ## Запуск
+### 1-й вариант:    
+Перейти по  [ссылке](https://avemrk.github.io/test-only/).         
 
+### 2-й вариант: 
 `git clone git@github.com:AveMrk/test-only.git`
 
 `cd ./test-only`
