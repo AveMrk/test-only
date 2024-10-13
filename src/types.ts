@@ -4,10 +4,10 @@ export type Event = {
   text: string;
 };
 
-export type Slide = {
+export type SlideType = {
   id: number;
   name: string;
   events: Event[];
 };
 
-export type Slides = Slide[];
+export type Slides = SlideType[];
