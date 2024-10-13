@@ -18,7 +18,7 @@ const data:Slides = [
       
       { 
         id: 13,
-        year: 1995,
+        year: 1996,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       }
     ]
@@ -29,7 +29,7 @@ const data:Slides = [
     events: [
       { 
         id: 21,
-        year: 1991,
+        year: 1989,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       },
       
@@ -58,7 +58,7 @@ const data:Slides = [
       
       { 
         id: 26,
-        year: 1995,
+        year: 1997,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       }
     ]
@@ -69,7 +69,7 @@ const data:Slides = [
     events: [
       { 
         id: 31,
-        year: 1992,
+        year: 1990,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       },
       
@@ -81,7 +81,7 @@ const data:Slides = [
       
       { 
         id: 33,
-        year: 1995,
+        year: 2000,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       }
     ]
@@ -92,7 +92,7 @@ const data:Slides = [
     events: [
       {
         id: 41,
-        year: 1992,
+        year: 1961,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       },
       
@@ -104,7 +104,7 @@ const data:Slides = [
       
       {
         id: 43,
-        year: 1995,
+        year: 1997,
         text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
       }
     ]
@@ -150,7 +150,7 @@ const data:Slides = [
     
     {
       id: 63,
-      year: 1995,
+      year: 1999,
       text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
     }
   ]

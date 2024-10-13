@@ -10,12 +10,8 @@ type Props = {
   items: Event[]
 }
 function SliderSmall({items}:Props){
- 
-  
-  const[events, setEvents] = useState<Event[]>([]);
   return(
     <>
-
     <Swiper
     modules={[Navigation]}
     allowTouchMove={false}

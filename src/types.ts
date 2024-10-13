@@ -11,3 +11,8 @@ export type SlideType = {
 };
 
 export type Slides = SlideType[];
+
+export type Position = {
+  x: string;
+  y: string
+}

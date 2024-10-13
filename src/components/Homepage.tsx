@@ -13,7 +13,7 @@ export default function HomePage(){
   }
   return (
     <>
-      <Slider items={data} title='Исторические даты' onChange={handleChange}/>
+      <Slider className="swiper-circle" items={data} title='Исторические даты' onChange={handleChange}/>
       <SliderSmall items={events} />
       </>
   )
